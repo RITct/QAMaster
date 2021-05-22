@@ -54,3 +54,18 @@ A discord bot to manage questions and answers in a server
   ```bash
   python QAMaster/bot.py
   ```
+
+## How to contribute
+
+- Find an issue
+
+- Discuss
+
+- Get assigned
+
+- Make a pull request
+
+## Resources
+
+- discord.py - [documentation](https://discordpy.readthedocs.io/en/stable/)
+  - We are mainly using [COGs](https://discordpy.readthedocs.io/en/stable/ext/commands/cogs.html) for each sub set of commands
