@@ -1,1 +1,1 @@
-worker: python3 QAMaster/bot.py
+worker: python QAMaster/bot.py
